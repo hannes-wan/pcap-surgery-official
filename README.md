@@ -22,6 +22,8 @@ Review edited capture export readiness and warnings before handoff.
 
 ## Download packages
 
+- [pcap-surgery-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/pcap-surgery-official/releases/download/v0.1.6/pcap-surgery-0.1.6-windows-x64-setup.exe)
+
 - [pcap-surgery-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/pcap-surgery-official/releases/download/v0.1.6/pcap-surgery-0.1.6-linux-x64.AppImage)
 - [pcap-surgery-0.1.6-linux-x64.deb](https://github.com/hannes-wan/pcap-surgery-official/releases/download/v0.1.6/pcap-surgery-0.1.6-linux-x64.deb)
 - [pcap-surgery-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/pcap-surgery-official/releases/download/v0.1.6/pcap-surgery-0.1.6-linux-x64.rpm)
