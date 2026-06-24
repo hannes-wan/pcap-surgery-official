@@ -104,7 +104,7 @@ PCAP editor, PCAP viewer, PCAPNG viewer, packet analyzer, Wireshark alternative,
 Hannes Software builds focused local-first desktop tools: protocol diagnostics, music practice/transcription utilities, and small-clinic operations software. The pattern is simple: solve a narrow workflow well, keep data on the user’s machine, and sell with one-time pricing instead of a subscription treadmill.
 
 Website: https://hannes-software.com/
-Contact: hg3328762@qq.com
+Contact: support@hannes-software.com
 
 ## Repository note
 
